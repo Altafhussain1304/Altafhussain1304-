@@ -14,7 +14,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SOC Automation        | <a href="https://google.com">Detection Lab</a>|
+| SOC-Automation        | <a href="https://github.com/Altafhussain1304/SOC-Automation/tree/main">SOC-Automation</a>|
 | SOC Automation with AI | <a href="https://google.com">Detection Lab</a>|
 | Honeypot Implementation         | SOC Automation Lab|
 
@@ -46,6 +46,6 @@ My journey in Information Technology has led me to develop a passion for cyberse
 </div>
 
 ## Projects
-- SOC Automation Project
+<a href="https://github.com/Altafhussain1304/SOC-Automation/tree/main">SOC-Automation</a>
 - SOC with AI
 - Honeypot
