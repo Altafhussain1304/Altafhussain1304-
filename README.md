@@ -17,6 +17,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 | SOC-Automation        | <a href="https://github.com/Altafhussain1304/SOC-Automation/tree/main">SOC-Automation</a>|
 | SOC Automation with AI | <a href="https://google.com">Detection Lab</a>|
 | Honeypot Implementation         | SOC Automation Lab|
+| suricata-wazuh-integration       |<a href="https://github.com/Altafhussain1304/suricata-wazuh-integration">suricata-wazuh-integration</a>|
 
 
 ## Tools
