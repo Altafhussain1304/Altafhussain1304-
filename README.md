@@ -50,3 +50,5 @@ My journey in Information Technology has led me to develop a passion for cyberse
 <a href="https://github.com/Altafhussain1304/SOC-Automation/tree/main">SOC-Automation</a>
 - SOC with AI
 - Honeypot
+  
+<a href="https://github.com/Altafhussain1304/suricata-wazuh-integration">suricata-wazuh-integration</a>
