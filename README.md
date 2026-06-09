@@ -3,21 +3,37 @@
 
 
 
-I'm an Information Technology student passionate about cybersecurity, cloud computing, and system automation. I enjoy working with tools like Kali Linux and exploring areas such as threat detection, SOC operations, and network security.
+I'm an Information Technology graduate passionate about cybersecurity, cloud computing, and system automation. I enjoy working with tools like Kali Linux and exploring areas such as threat detection, SOC operations, and network security.
+
 ## Objective
 
-
-My journey in Information Technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
-
-## Skills
+Information Technology graduate with hands-on experience in SOC Automation, SIEM, IDS/IPS, and threat monitoring. Passionate about cybersecurity and seeking an entry-level Security Operations Center (SOC) Analyst role where I can apply my skills in threat detection, incident response, and security monitoring.
 
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SOC-Automation        | <a href="https://github.com/Altafhussain1304/SOC-Automation/tree/main">SOC-Automation</a>|
 
-| Honeypot Implementation         | SOC Automation Lab|
-| suricata-wazuh-integration       |<a href="https://github.com/Altafhussain1304/suricata-wazuh-integration">suricata-wazuh-integration</a>|
+## Technical Skills
+
+### Cybersecurity & Networking
+
+* Kali Linux Fundamentals
+* Security Operations Center (SOC)
+* Firewalls
+* IDS/IPS
+* Threat & Vulnerability Management
+
+### Programming Languages
+
+* Python (Basic)
+* SQL
+* C
+* HTML
+
+### Soft Skills
+
+* Communication
+* Team Collaboration
+* Problem Solving
+
 
 
 ## Tools
@@ -48,7 +64,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 
 ## Projects
 <a href="https://github.com/Altafhussain1304/SOC-Automation/tree/main">SOC-Automation</a>
-- SOC with AI
-- Honeypot
-  
+
+<a href="https://github.com/Altafhussain1304/Honeypot">Honeypot</a> 
+
 <a href="https://github.com/Altafhussain1304/suricata-wazuh-integration">suricata-wazuh-integration</a>
